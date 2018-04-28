@@ -135,6 +135,7 @@ h2 ~ p {
 }
 .social-list {
   list-style: none;
+  margin: 1em 0 0;
   padding: 0;
   text-align: center;
 }
