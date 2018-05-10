@@ -810,8 +810,10 @@ h2 ~ p {
   */
 
 
-  .blog-recent {
-    display: none;
+  .col-two {
+    display: flex;
+    flex-direction: column-reverse;
+  }
   }
   .blog-previews {
     padding: 0;
